@@ -1,0 +1,27 @@
+{
+  "name": "wave-project",
+  "version": "1.0.0",
+  "description": "Wave back-end challenge project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsuntres/wave-project.git"
+  },
+  "author": "George Suntres (gsuntres@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsuntres/wave-project/issues"
+  },
+  "homepage": "https://github.com/gsuntres/wave-project#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0"
+  },
+  "devDependencies": {
+    "debug": "^4.1.1"
+  }
+}
