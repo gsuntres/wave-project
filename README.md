@@ -1,6 +1,6 @@
 # wave-project
 
-Wave back-end challenge project
+Wave back-end challenge project (aka freebe)
 
 ## Design and Implementation
 
